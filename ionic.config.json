@@ -1,0 +1,8 @@
+{
+  "name": "ERKB",
+  "app_id": "c73daf3e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
